@@ -15,7 +15,7 @@ improving my programming and problem-solving skills.
 
 - 🎓 B.Tech Information Technology student at IIIT Bhopal
 - 🧩 Solved 500+ DSA problems across LeetCode, CodeChef, Codeforces & other platforms
-- 🏆 250+ LeetCode problems | 2★ CodeChef | Peak LeetCode rating: 1588
+- 🏆 270+ LeetCode problems | 2★ CodeChef | Peak LeetCode rating: 1588
 - 💻 Passionate about Data Structures, Algorithms & Competitive Programming
 - 🤖 Exploring Machine Learning, Data Science & practical ML applications
 - 🚀 Built projects in Machine Learning and full-stack web development
@@ -34,11 +34,10 @@ C++ • C • Python • JavaScript • SQL
 HTML • CSS
 
 ### 🤖 Machine Learning & Data Science
-NumPy • Pandas • Matplotlib • Scikit-learn
+NumPy · Pandas · Matplotlib · Scikit-learn · NLP · TF-IDF · Logistic Regression
 
 ### 🧠 Core Concepts
-Data Structures & Algorithms • OOP • DBMS •
-Machine Learning • Data Preprocessing • Model Evaluation
+Data Structures & Algorithms · OOP · DBMS ·Machine Learning · Natural Language Processing ·Data Preprocessing · Text Preprocessing ·Feature Extraction · Text Classification · Model Evaluation
 
 ### 🗄️ Databases
 MySQL • MongoDB Atlas
@@ -50,6 +49,14 @@ Google Colab • Streamlit
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 MindWell AI
+
+An NLP-based student wellness application that analyzes student journal entries to identify stress levels and academic stress factors, providing personalized stress-management recommendations.
+
+**Tech:** Python · NLP · Pandas · NumPy · Scikit-learn · TF-IDF · Logistic Regression
+
+---
 
 ### 🚗 Car Price Prediction
 
